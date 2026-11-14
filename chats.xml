@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritesheet image="cats_sheet.png" columns="4" rows="2">
+    <sprite id="0" name="Roux rayé" x="0" y="0" width="64" height="64"/>
+    <sprite id="1" name="Siamois" x="64" y="0" width="64" height="64"/>
+    <sprite id="2" name="Roux uni" x="128" y="0" width="64" height="64"/>
+    <sprite id="3" name="Calicot" x="192" y="0" width="64" height="64"/>
+    <sprite id="4" name="Tout noir" x="0" y="64" width="64" height="64"/>
+    <sprite id="5" name="Gris tigré" x="64" y="64" width="64" height="64"/>
+    <sprite id="6" name="Crème" x="128" y="64" width="64" height="64"/>
+    <sprite id="7" name="Gris foncé" x="192" y="64" width="64" height="64"/>
+</spritesheet>
